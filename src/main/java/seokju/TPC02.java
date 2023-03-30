@@ -1,5 +1,3 @@
-package main.java;
-
 public class TPC02 {
 
     public static void main(String[] args) {
